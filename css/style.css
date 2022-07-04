@@ -1,0 +1,53 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+#hero-area{
+    background-image: url("../images/top-banner.png");
+    background-repeat: no-repeat;
+}
+.part{
+    display: flex;
+}
+.devision {
+    width: 50%;
+    margin: 41px;
+    padding-left: 30px;
+}
+h1 {
+    font-size: 45px;
+    font-weight: 700;
+}
+h5 {
+    font-size: 25px;
+    font-weight: 600;
+    margin: 0;
+}
+p {
+    text-align: justify;
+}
+.link {
+    text-decoration: none;
+    background-image: linear-gradient( orange, red);
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: #fff;
+}
+.myStyle{
+    color:chocolate;
+}
+.devision img{
+    width: 80%;
+}
+
+#d-area{
+    background-image: url("../images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+
+
+
